@@ -1,0 +1,2 @@
+Prefix plugins/GLMCommonDisp/example/
+Plugin GLMCommonDisp inputfile parameters.txt outputfile none

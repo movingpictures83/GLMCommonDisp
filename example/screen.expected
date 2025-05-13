@@ -23,22 +23,6 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: GLMCommonDisp
-Loading required package: mclust
-Package 'mclust' version 6.0.0
-Type 'citation("mclust")' for citing this R package in publications.
-Loading required package: nor1mix
-Loading required package: preprocessCore
-Loading required package: splines
-Loading required package: quantreg
-Loading required package: SparseM
-
-Attaching package: ‘SparseM’
-
-The following object is masked from ‘package:base’:
-
-    backsolve
-
-Loading required package: limma
        d.mont$sample$groupgrp2
 Down                       146
 NotSig                   22972
